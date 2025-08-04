@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Hava Durumu Uygulaması",
+    "change_location": "Konumu değiştir...",
+    "current_weather": "Güncel Hava",
+    "weekly_forecast": "Haftalık Tahmin",
+    "feels_like": "Hissedilen",
+    "humidity": "Nem",
+    "visibility": "Görüş Mesafesi",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+    "loading": "Yükleniyor...",
+    "search_city": "Şehir ara...",
+    "no_results": "Sonuç bulunamadı.",
+    "suggestions": "Öneriler",
+    "results": "Sonuçlar",
+    "source_code": "Kaynak Kodu",
+    "close": "Kapat",
+    "back": "Geri"
+  },
+  "messages": {
+    "feels_warmer": "Gerçek sıcaklıktan daha sıcak hissediliyor.",
+    "feels_colder": "Gerçek sıcaklıktan daha soğuk hissediliyor.",
+    "feels_same": "Gerçek sıcaklık ile aynı hissediliyor.",
+    "humidity_high": "Yüksek nem. Hava nemli ve rahatsız edici olabilir.",
+    "humidity_low": "Düşük nem. Hava kuru hissedilebilir.",
+    "humidity_modarate": "Orta nem. Konforlu koşullar.",
+    "visibility_clear": "Şu anda tamamen açık.",
+    "visibility_good": "İyi görüş mesafesi.",
+    "visibility_poor": "Düşük görüş mesafesi. Lütfen dikkatli olun."
+  },
+  "errors": {
+    "geo_location": {
+      "title": "Konum Erişimi Başarısız",
+      "description": "Üzgünüz, konumunuzun hava durumunu gösteremiyoruz. Lütfen tarayıcı ayarlarından konum hizmetlerini etkinleştirin veya şehri manuel olarak arayın."
+    }
+  }
+}

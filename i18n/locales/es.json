@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Aplicación del Clima",
+    "change_location": "Cambiar ubicación...",
+    "current_weather": "Clima Actual",
+    "weekly_forecast": "Pronóstico Semanal",
+    "feels_like": "Sensación térmica",
+    "humidity": "Humedad",
+    "visibility": "Visibilidad",
+    "error": "Ocurrió un error. Por favor, inténtalo de nuevo.",
+    "loading": "Cargando...",
+    "search_city": "Buscar ciudad...",
+    "no_results": "No se encontraron resultados.",
+    "suggestions": "Sugerencias",
+    "results": "Resultados",
+    "source_code": "Código Fuente",
+    "close": "Cerrar",
+    "back": "Atrás"
+  },
+  "messages": {
+    "feels_warmer": "Se siente más cálido que la temperatura real.",
+    "feels_colder": "Se siente más frío que la temperatura real.",
+    "feels_same": "Se siente igual que la temperatura real.",
+    "humidity_high": "Alta humedad. Puede sentirse húmedo e incómodo.",
+    "humidity_low": "Baja humedad. Puede sentirse seco.",
+    "humidity_modarate": "Humedad moderada. Condiciones cómodas.",
+    "visibility_clear": "Está perfectamente despejado ahora mismo.",
+    "visibility_good": "Buena visibilidad.",
+    "visibility_poor": "Visibilidad pobre. Ten precaución al conducir o moverte."
+  },
+  "errors": {
+    "geo_location": {
+      "title": "Acceso a la Ubicación Fallido",
+      "description": "Lo sentimos, no podemos mostrar el clima de tu ubicación. Por favor, habilita los servicios de ubicación en la configuración del navegador o busca la ciudad manualmente."
+    }
+  }
+}

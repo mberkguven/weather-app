@@ -1,0 +1,37 @@
+{
+  "app": {
+    "title": "Weather App",
+    "change_location": "Change location...",
+    "current_weather": "Current Weather",
+    "weekly_forecast": "Weekly Forecast",
+    "feels_like": "Feels like",
+    "humidity": "Humidity",
+    "visibility": "Visibility",
+    "error": "An error occurred. Please try again.",
+    "loading": "Loading...",
+    "search_city": "Search city...",
+    "no_results": "No results found.",
+    "suggestions": "Suggestions",
+    "results": "Results",
+    "source_code": "Source Code",
+    "close": "Close",
+    "back": "Back"
+  },
+  "messages": {
+    "feels_warmer": "Feels warmer than the actual temperature.",
+    "feels_colder": "Feels colder than the actual temperature.",
+    "feels_same": "Feels like the actual temperature.",
+    "humidity_high": "High humidity. It might feel humid and uncomfortable.",
+    "humidity_low": "Low humidity. It might feel dry.",
+    "humidity_modarate": "Moderate humidity. Comfortable conditions.",
+    "visibility_clear": "It's perfectly clear right now.",
+    "visibility_good": "Good visibility.",
+    "visibility_poor": "Poor visibility. Exercise caution while driving or moving around."
+  },
+  "errors": {
+    "geo_location": {
+      "title": "Location Access Failed",
+      "description": "Sorry, we can not show your locations weather. Please enable location services in browser settings or search city by manual."
+    }
+  }
+}
