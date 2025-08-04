@@ -2,6 +2,9 @@
 
 A modern weather forecast application built with Next.js, React Query, and OpenWeather API.
 
+<img src=".github/screenshot.png" alt="Screenshot">
+
+
 ## Features
 
 - 🌤️ Real-time weather data from OpenWeatherMap API
@@ -116,7 +119,3 @@ The app uses a secure API route (`/api/weather`) that keeps your OpenWeather API
 ## Localization (i18n)
 
 All localization files are stored in the `i18n/` folder at the project root. Add new language files there as needed.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
