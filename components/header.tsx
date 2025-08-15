@@ -7,9 +7,9 @@ import { CountdownButton } from "@/components/ui/countdown-button";
 import { LanguageSwitcher } from "@/components/ui/lang-toggle";
 import { ModeToggle } from "@/components/ui/mode-toggle";
 import { UnitsToggle } from "@/components/ui/units-toggle";
+import { REPOSITORY_URL } from "@/lib/constants";
 
 import { LocationDialog } from "./location-dialog";
-import { REPOSITORY_URL } from "@/lib/constants";
 
 export const Header = () => {
   const t = useTranslations();
