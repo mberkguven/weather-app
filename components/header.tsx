@@ -9,6 +9,7 @@ import { ModeToggle } from "@/components/ui/mode-toggle";
 import { UnitsToggle } from "@/components/ui/units-toggle";
 
 import { LocationDialog } from "./location-dialog";
+import { REPOSITORY_URL } from "@/lib/constants";
 
 export const Header = () => {
   const t = useTranslations();
@@ -26,7 +27,7 @@ export const Header = () => {
           <ModeToggle />
           <LocationDialog />
           <Button className="font-semibold px-1.5" asChild>
-            <Link href="https://github.com/mberkguven" target="_blank">
+            <Link href={REPOSITORY_URL} target="_blank">
               <BookMarkedIcon size={18} className="md:mr-2" />
               <span className="sr-only md:not-sr-only">
                 {t("app.source_code")}

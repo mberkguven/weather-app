@@ -1,5 +1,6 @@
 export const API_KEY = process.env.API_KEY;
 export const API_URL = "https://api.openweathermap.org";
+export const REPOSITORY_URL = "https://github.com/mberkguven/weather-app"
 
 export const DEFAULT_LOCATION = {
   city: "Istanbul",
